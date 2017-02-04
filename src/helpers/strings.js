@@ -1,9 +1,11 @@
 module.exports = {
   queryString: [
-    ''
+    'java',
+    'microservices',
+    'machine learning'
   ],
   queryStringSubQuery: [
-    ''
+    ' tip'
   ],
   blockedStrings: [
     'porn',

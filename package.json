@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "twitter bot bootstrap",
   "main": "index.js",
-   "devDependencies": {
+  "devDependencies": {
     "standard": "*"
   },
   "scripts": {
@@ -15,5 +15,13 @@
     "twit": "^2.2.5",
     "unique-random-array": "^1.0.0",
     "unirest": "^0.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharmasourabh/twit-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sharmasourabh/twit-bot/issues"
+  },
+  "homepage": "https://github.com/sharmasourabh/twit-bot#readme"
 }
