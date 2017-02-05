@@ -5,11 +5,18 @@ module.exports = {
     'machine learning'
   ],
   queryStringSubQuery: [
-    ' tip'
+    ' tip',
+    ' practices',
+    ' best practice',
+    ' tips'
   ],
   blockedStrings: [
     'porn',
-    'sex'
+    'sex',
+    'ebony',
+    'nude',
+    'fuck',
+    'milf'
   ],
   resultType: [
     'mixed',
